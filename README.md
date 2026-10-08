@@ -134,3 +134,6 @@ Open the Vite URL printed in terminal 2.
 ## Stop a running application
 
 Press `Ctrl+C` in the terminal running the application.
+
+
+https://chatgpt.com/share/6ac667e6-f3d8-83ee-a11e-05df80b3d095
